@@ -25,7 +25,7 @@ infome gives the full information of customers
 ## POC Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZwRvkxNB2a8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/embed/ZwRvkxNB2a8)
 
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=ZwRvkxNB2a8)
+
+[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
