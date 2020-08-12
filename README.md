@@ -25,3 +25,4 @@ infome gives the full information of customers
 ## POC Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZwRvkxNB2a8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/embed/ZwRvkxNB2a8)
