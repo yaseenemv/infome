@@ -28,4 +28,4 @@ infome gives the full information of customers
 
 
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
+[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://www.youtube.com/embed/ZwRvkxNB2a8)
