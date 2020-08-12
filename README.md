@@ -25,6 +25,6 @@ infome gives the full information of customers
 ## POC Video
 
 
-
+<video src="https://www.youtube.com/embed/ZwRvkxNB2a8" width="320" height="200" controls preload></video>
 
 [![SC2 Video](https://github.com/yaseenemv/infome/blob/master/maxresdefault.jpg)](https://www.youtube.com/embed/ZwRvkxNB2a8)
